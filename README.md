@@ -23,6 +23,9 @@ level_error.count;source=ES;type=logs;team=devops;app=web-01 22 1614777540
 Metrics sent for: 5 queries
 ```
 
+## Grafana Graph (Graphite)
+<img src="img/es-to-graphite-exporter.png" width="750">
+
 ## Dependencies
 - Python v3.6
 - Elasticsearch endpoint should be accessible
